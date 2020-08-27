@@ -25,7 +25,6 @@ I'm a Back-End Node.js Developer from Brazil 💚, **20 years old** 👶🏻 and
 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
 
 ----
 
