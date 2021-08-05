@@ -19,7 +19,7 @@
 
 Hi, I'm Gabriel, but you can call me **Nam**. 
 
-I'm a Back-End Node.js Developer from Brazil 💚, **20 years old** 👶🏻 and **1 year of coding** 🧐. 
+I'm a Back-End Node.js Developer from Brazil 💚, **21 years old** 👶🏻 and **2 year of coding** 🧐. 
 
 **A book lover** 📕,  and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
