@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/jorge-gabriel-55b8a9170">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5531994751976">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5531994465304">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://instagram.com/gabrielnamjoon?igshid=1qgfntsvxnfox">
