@@ -19,7 +19,7 @@
 
 Hi, I'm Gabriel, but you can call me **Nam**. 
 
-I'm a Back-End Laravel Developer from Brazil 💚, **23 years old** 👶🏻 and **4 year of coding** 🧐. 
+I'm a Back-End Laravel Developer from Brazil 💚, **25 years old** 👶🏻 and **5 year of coding** 🧐. 
 
 **A book lover** 📕,  and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
